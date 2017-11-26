@@ -15,7 +15,7 @@ Some interesting manuscripts with good openly licensed photography.
 
 ### Germanicus, *Aratea*
 
--  Bern Burgerbibliothek 88.  Images cataloged, see [this page](https://hcmid.github.io/ms-hackathon-2018/next/).
+-  Bern Burgerbibliothek 88.  Images cataloged, browsable thumbnails available from  [this HC hackathon page](https://hcmid.github.io/ms-hackathon-2018/bern88-thumbs/).
 -  Basel, Universitätsbibliothek, AN IV 18
 -  Bodmer 7 (with scholia Strozziana)
 -  Cod. Sang. 250
