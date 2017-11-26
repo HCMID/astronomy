@@ -9,7 +9,7 @@ Some interesting manuscripts with good openly licensed photography.
 ### Hyginus
 
 -  [Walters 734](http://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W734/).
-    - citable in collection `urn:cite2:walters:w734.v1:`
+    - images citable from <http://www.homermultitext.org/ict2> in collection `urn:cite2:walters:w734.v1:`
 
 
 
