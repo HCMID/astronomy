@@ -30,7 +30,7 @@ Other possibilities:
 -  Einsiedeln 338
 
 
-## Hipparchus, *Commentary on the "Phaenomena" of Aratus and Eudoxus*
+### Hipparchus, *Commentary on the "Phaenomena" of Aratus and Eudoxus*
 
 -  Berlin Cod Gr 16 (pdfs split and being converted to tifs on beta.hpcc.h.edu)
 -  Berlin Cod Gr 105 (tifs being being converted to ptifs on beta.hpcc.h.edu)
