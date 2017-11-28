@@ -10,7 +10,8 @@ Sources for information about manuscripts for relevant texts.
 
 ### Germanicus
 
--  preface to Budé edition
+-  preface to Breysig Teubner edition (available from google books)
+-  preface to Le Boeufle Budé edition (available at HC)
 
 ### Cicero, *Phaenomena*
 
