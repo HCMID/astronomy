@@ -14,3 +14,4 @@ Initial notes for future MID project on Latin astronomical texts, perhaps with t
 Related or useful online sources:
 
 -  <http://www.digital-archiv.at/aratea-online/>
+    - "[How-to blog](https://howto.acdh.oeaw.ac.at/blog/books/how-to-build-a-digital-edition-web-app/)""
