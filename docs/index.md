@@ -1,4 +1,7 @@
-# Latin astronomical texts
+---
+title: Latin astronomical texts
+layout: page
+---
 
 Initial notes for future MID project on Latin astronomical texts, perhaps with the directly translated source material from Aratus and commentary of Hipparchus in Greek.
 
