@@ -1,0 +1,26 @@
+
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            HC-MID astronomy manuscript projects
+tagline:          'Latin astronomical texts'
+description:      'Planning for MID projects on Latin translations of Aratus, Phaenomena.'
+
+
+baseurl: '/astronomy/'
+
+
+author:
+  name:           'Neel Smith'
+
+
+links:
+  - title: Github repo
+    url:  https://hcmid.github.io/astronomy
+    external: true
+  - title: HC MID club
+    url: http://hcmid.github.io/
+    external: true
