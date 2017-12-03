@@ -9,7 +9,7 @@ Some interesting manuscripts with good openly licensed photography.
 ### Hyginus
 
 -  [Walters 734](http://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W734/).
-    - images citable from <http://www.homermultitext.org/ict2> in collection `urn:cite2:walters:w734.v1:`
+    - images citable from <http://www.homermultitext.org/ict2> in collection `urn:cite2:walters:w734.v1:`.  Not yet cataloged.
 
 
 
@@ -32,5 +32,7 @@ Other possibilities:
 
 ### Hipparchus, *Commentary on the "Phaenomena" of Aratus and Eudoxus*
 
--  Berlin Cod Gr 16 (pdfs split and being converted to tifs on beta.hpcc.h.edu)
--  Berlin Cod Gr 105 (tifs being being converted to ptifs on beta.hpcc.h.edu)
+-  Berlin Cod Gr 16
+    -  images citable from http://www.homermultitext.org/ict2 in collection `urn:cite2:munich:bsb16imgs.v1:`.  Not yet cataloged.
+-  Berlin Cod Gr 105
+    -  images citable from http://www.homermultitext.org/ict2 in collection `urn:cite2:munich:bsb105imgs.v1:`. Not yet cataloged.
