@@ -29,6 +29,11 @@ Other possibilities:
 -  BM Arundel 268
 -  Einsiedeln 338
 
+## Aratus Latinus
+
+
+-  MS Paris, BnF Lat. 12957.  Pdf split into pages.
+
 
 ### Hipparchus, *Commentary on the "Phaenomena" of Aratus and Eudoxus*
 
