@@ -32,7 +32,7 @@ Other possibilities:
 ## Aratus Latinus
 
 
--  MS Paris, BnF Lat. 12957.  Pdf split into pages.
+-  MS Paris, BnF Lat. 12957.  (Pdf split into pages, tifs being made on hpcc.uh.edu.)
 
 
 ### Hipparchus, *Commentary on the "Phaenomena" of Aratus and Eudoxus*
