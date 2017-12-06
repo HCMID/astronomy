@@ -37,6 +37,7 @@ Other possibilities:
 
 ### Hipparchus, *Commentary on the "Phaenomena" of Aratus and Eudoxus*
 
--   Berlin Cod Gr 16f
+-   Berlin Cod Gr 16
+    -   images citable from http://www.homermultitext.org/ict2 in collection urn:cite2:munich:bsb16imgs.v1:. Not yet cataloged.
 -   Berlin Cod Gr 105
     -   images citable from <http://www.homermultitext.org/ict2> in collection `urn:cite2:munich:bsb105imgs.v1:`. Not yet cataloged.
