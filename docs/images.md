@@ -14,7 +14,8 @@ Some interesting manuscripts with good openly licensed photography.
 
 ### Germanicus, *Aratea*
 
--   Bern Burgerbibliothek 88 (= Breysig B).  Images cataloged, browsable thumbnails available from  [this HC hackathon page](https://hcmid.github.io/ms-hackathon-2018/bern88-thumbs/).
+-   Bern Burgerbibliothek 88 (= Breysig B).  
+    -   images cataloged, browsable thumbnails available from  [this HC hackathon page](https://hcmid.github.io/ms-hackathon-2018/bern88-thumbs/).
 -   Basel, Universitätsbibliothek, AN IV 18 (= Breysig A) (IIIF manifest downloaded)
 -   Bodmer 7 (with scholia Strozziana) (IIIF manifest downloaded)
 -   Cod. Sang. 250 (= Breysig Ga) (IIIF manifest downloaded)
